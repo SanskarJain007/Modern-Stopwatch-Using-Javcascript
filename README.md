@@ -8,6 +8,10 @@ This project is about a Modern day stopwatch which is made using javascript.
 5. Laps
 6. Reset Laps
 
+
+## **Project Link: -**
+To view this project <a href="https://codepen.io/sanskarjain007/pen/ZExqyVW">Click Here</a>
+
 ## **Project Video: -**
 
 
